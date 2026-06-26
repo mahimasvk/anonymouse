@@ -1,4 +1,4 @@
-﻿# Anonymouse - An Anonymous Discord Feedback Messaging Bot
+﻿# Anonymouse - An Anonymous Discord Messaging Bot
 
 this is a small discord bot for anonymous feedback/messages.
 
